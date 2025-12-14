@@ -1,0 +1,7 @@
+*.doc
+*.docx
+*.pdf
+*.lock.*
+*.lock
+.terraform
+.DS_Store
