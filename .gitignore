@@ -5,3 +5,4 @@
 *.lock
 .terraform
 .DS_Store
+*.tfstate
